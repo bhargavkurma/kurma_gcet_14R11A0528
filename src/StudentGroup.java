@@ -98,11 +98,17 @@ public class StudentGroup implements StudentArrayOperation {
 	@Override
 	public void bubbleSort() {
 		// Add your implementation here
-		int n=5;
-		int id;
-		int temp=0;
-		for(int id=0;id<n;id++){
+		int array[];
+		int i;
+		for(int i=0;i<id;i++)
+		{
+			System.out.print("array after sorting");
 		}
+		for(int i=0;,i<id;i++)
+		{
+			System.out.print(array[i] +" ");
+		}
+	
 		
 	}
 
@@ -115,6 +121,7 @@ public class StudentGroup implements StudentArrayOperation {
 			System.out.print("enter the birth name)
 			else
 		return null;
+		}
 	}
 
 	@Override
