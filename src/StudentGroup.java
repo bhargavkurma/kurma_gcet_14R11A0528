@@ -98,7 +98,7 @@ public class StudentGroup implements StudentArrayOperation {
 	@Override
 	public void bubbleSort() {
 		// Add your implementation here
-		int n=arr.length;
+		int n=5;
 		int id;
 		int temp=0;
 		for(int id=0;id<n;id++){
