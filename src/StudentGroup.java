@@ -93,6 +93,16 @@ public class StudentGroup implements StudentArrayOperation {
 	@Override
 	public void removeToElement(Student student) {
 		// Add your implementation here
+		int i;
+		System.out.print("enter the element name: +i");
+		if(i=removeToElement)
+		{
+			System.out.print("the element is deleted");
+			else
+				System.out.print("element does not match");
+			for(i=0;i<n;i++)
+			{
+				Sytem.out.print("the valure is : " +i " ");
 	}
 
 	@Override
